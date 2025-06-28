@@ -1,5 +1,5 @@
-export const SITE_URL = 'https://blog.lsy22.com';
-export const SITE_TITLE = "echoes";
+export const SITE_URL = 'https://www.chongciya.cn/';
+export const SITE_TITLE = "属余的记事本";
 export const SITE_DESCRIPTION = "记录生活，分享所思";
 // 新的导航结构 - 支持分层导航
 export const NAV_STRUCTURE = [
@@ -34,8 +34,8 @@ export const NAV_STRUCTURE = [
     }
 ];
 
-export const ICP = '渝ICP备2022009272号';
-export const PSB_ICP = '渝公网安备50011902000520号';
+export const ICP = '豫ICP备2024075104号-2';
+export const PSB_ICP = '';
 export const PSB_ICP_URL = 'http://www.beian.gov.cn/portal/registerSystemInfo';
 
 export const ARTICLE_EXPIRY_CONFIG = {
